@@ -1,0 +1,57 @@
+body {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* .container{
+      /* background-color:; */
+  /* height: 100vh;
+      width: 100vw; */
+  /* } */
+  
+  .container {
+    position: relative;
+    height: 60vh;
+    width: 70vw;
+    margin: 2vh auto;
+    border: 1px solid black;
+  }
+  
+  
+  
+  
+    /* #ball{
+    background-color: #00ff62b3;
+    border-radius: 50%;
+    height: 150px;
+    width:150px;
+    position:absolute;
+    left : 1px;
+    top:1px;
+    float: left;
+    display: inline;
+    box-sizing: border-box;
+    padding-top: 60px;
+    padding-left: 53px;
+  
+  } */
+  
+    #ball {
+      height: 80px;
+      width: 80px;
+      border-radius: 50%;
+      background-color: aquamarine;
+      position: relative;
+      top: 45vh;
+      left: 45vh;
+    }
+  
+  
+    @media only screen and (max-width: 600px) {
+      #ball {
+        height: 100px;
+        width: 100px;
+        padding-top: 35px;
+        padding-left: 25px;
+      }
+    }
