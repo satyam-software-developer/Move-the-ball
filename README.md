@@ -11,13 +11,13 @@ This project is a fun and interactive game built with HTML, CSS, and JavaScript.
    - Use the Arrow Keys or W, A, S, D to move the ball in the game space.
  3. Boundaries:
 
-    - The game space has boundaries, and the player needs to ensure the ball doesn't move beyond them.
+   - The game space has boundaries, and the player needs to ensure the ball doesn't move beyond them.
  4. Collision Detection:
 
-  - The ball is detected against the edges of the container, ensuring it stays within the playable area.
+   - The ball is detected against the edges of the container, ensuring it stays within the playable area.
  5. Styling & Animations:
 
-  - The game has a visually pleasing design with simple animations that enhance the game experience.
+   - The game has a visually pleasing design with simple animations that enhance the game experience.
 # Technologies Used
 1. HTML:
 
