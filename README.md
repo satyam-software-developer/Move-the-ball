@@ -5,17 +5,17 @@ This project is a fun and interactive game built with HTML, CSS, and JavaScript.
 # Features
  1. Ball Movement:
 
-The ball moves smoothly when the player presses the arrow keys or the WASD keys.
-2. Responsive Controls:
+   - The ball moves smoothly when the player presses the arrow keys or the WASD keys.
+ 2. Responsive Controls:
 
-  - Use the Arrow Keys or W, A, S, D to move the ball in the game space.
-3. Boundaries:
+   - Use the Arrow Keys or W, A, S, D to move the ball in the game space.
+ 3. Boundaries:
 
-  - The game space has boundaries, and the player needs to ensure the ball doesn't move beyond them.
-4. Collision Detection:
+    - The game space has boundaries, and the player needs to ensure the ball doesn't move beyond them.
+ 4. Collision Detection:
 
   - The ball is detected against the edges of the container, ensuring it stays within the playable area.
-5. Styling & Animations:
+ 5. Styling & Animations:
 
   - The game has a visually pleasing design with simple animations that enhance the game experience.
 # Technologies Used
