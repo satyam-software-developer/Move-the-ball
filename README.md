@@ -21,13 +21,13 @@ This project is a fun and interactive game built with HTML, CSS, and JavaScript.
 # Technologies Used
 1. HTML:
 
-  - Used to structure the game interface, including the container for the game area and the ball.
+    - Used to structure the game interface, including the container for the game area and the ball.
 2. CSS:
 
-  - Provides styling for the ball, the game area, and visual effects for smooth movement.
+    - Provides styling for the ball, the game area, and visual effects for smooth movement.
 3. JavaScript:
 
- - Implements the logic for detecting key presses, moving the ball, and ensuring it stays within the boundaries of the game area.
+    - Implements the logic for detecting key presses, moving the ball, and ensuring it stays within the boundaries of the game area.
 #  How to Play
 1. Open the game in your browser.
 2. Use the Arrow Keys or WASD keys to move the ball around the game area.
