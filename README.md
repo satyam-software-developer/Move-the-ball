@@ -42,7 +42,7 @@ move-the-ball/
 └── README.md            // Project documentation
 # How to Run the Project
 1. Clone or download the repository:
-  git clone https://github.com/your-username/move-the-ball.git
+  git clone https://github.com/satyam-software-developer/Move-the-ball.git
 2. Open the index.html file in any modern browser (e.g., Chrome, Firefox, Edge).
 3. Start moving the ball and enjoy the game!
 # Future Improvements
